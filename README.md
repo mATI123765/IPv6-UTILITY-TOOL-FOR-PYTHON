@@ -7,13 +7,12 @@
 <body>
 <h2>Expander & Shortener IPv6 Address </h2>
     <b style="color:grey"><u>First program with libraries (ipaddress):</u></b>
-    <p> <img src="screenshot_IPV6.png" width="400" height="420">
-        This code was made by Matías & Jorge Ferrando. We aim to accomplish
+    <p> This code was made by Matías & Jorge Ferrando. We aim to accomplish
         several tasks related to IPv6 addresses, such as writing the full address
         with all the zeros and having the program return the shorter IPv6 format,
         or writing the shorter IPv6 address without zeros and having the program
         return the full address with '::' to complete the shortened address. </p>
-     <b style="color:grey"><u>Second program with windows and interfaces:</u></b>
+     <b style="color:grey"><u>Second program with windows and interfaces:</u></b> <img src="screenshot_IPV6.png" width="400" height="420">
         <p> In this program, we can see that when running it, a window opens,
         displaying the same interface as the first one. <!-- However, in this case, we
         can interact with the window to perform actions related to IPv6 addresses -->
