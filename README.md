@@ -23,6 +23,6 @@
         can run both programs. 
         Otherwise, you can run the .exe file, and you'll be able to
         use the program without making use Python. </p>
-    <a href="ipaddress_GUI.exe" download>Download executable file </a>
+    <a href="ipaddress_GUI.zip" download>Download zip folder with .exe file </a>
 </body>
 </html>
