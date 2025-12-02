@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet"; href="style.css">
 </head>
-<body>
-    <h2>Expander & Shortener IPv6 Address </h2>
+<h2>Expander & Shortener IPv6 Address </h2>
     <b style="color:grey"><u>First program with libraries (ipaddress):</u></b>
     <p> This code was made for Mat&iacuteas & Jorge Ferrando. We aim to acomplish
         several tasks related to IPv6 addresses, such as writing the full address
@@ -23,6 +20,5 @@
         as long as Python is installed on your computer. Once that's done, you
         can run both programs. </br>
         Otherwise, you can run the .exe file, and you'll be able to
-        use the program without making use Python.
+        use the program without making use Python. </p>
 </body>
-</html>
