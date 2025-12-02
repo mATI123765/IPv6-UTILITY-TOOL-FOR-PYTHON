@@ -12,7 +12,7 @@
         with all the zeros and having the program return the shorter IPv6 format,
         or writing the shorter IPv6 address without zeros and having the program
         return the full address with '::' to complete the shortened address. </p>
-     <b style="color:grey"><u>Second program with windows and interfaces:</u></b> <img src="screenshot_IPV6.png" width="400" height="420">
+     <b style="color:grey"><u>Second program with windows and interfaces:</u></b> <img src="screenshot_IPV6.png" width="400" height="320">
         <p> In this program, we can see that when running it, a window opens,
         displaying the same interface as the first one. <!-- However, in this case, we
         can interact with the window to perform actions related to IPv6 addresses -->
