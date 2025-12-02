@@ -1,3 +1,4 @@
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,3 +23,4 @@
         Otherwise, you can run the .exe file, and you'll be able to
         use the program without making use Python. </p>
 </body>
+</html>
