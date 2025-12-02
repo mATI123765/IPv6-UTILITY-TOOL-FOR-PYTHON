@@ -12,3 +12,8 @@ p{
     font-size: 108%;
     color: white;
 }
+img {
+    float: right;
+    margin: 10px;
+}
+
