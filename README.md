@@ -7,7 +7,7 @@
 <body>
 <h2>Expander & Shortener IPv6 Address </h2>
     <b style="color:grey"><u>First program with libraries (ipaddress):</u></b>
-    <p> This code was made for Matíacuteas & Jorge Ferrando. We aim to acomplish
+    <p> This code was made for Matías & Jorge Ferrando. We aim to accomplish
         several tasks related to IPv6 addresses, such as writing the full address
         with all the zeros and having the program return the shorter IPv6 format,
         or writing the shorter IPv6 address without zeros and having the program
@@ -18,7 +18,7 @@
         can interact with the window to perform actions related to IPv6 addresses -->
         </p>
     <b style="color:grey"><u>Open the program:</u></b>
-        <p> How do you open the program? It's simple, the .py file can be executed
+        <p> How do you open the program? It's simple, the .py file in the github  <a href="https://github.com/mATI123765/IPv6-UTILITY-TOOL-FOR PYTHON">repository</a> can be executed
         as long as Python is installed on your computer. Once that's done, you
         can run both programs. 
         Otherwise, you can run the .exe file, and you'll be able to
