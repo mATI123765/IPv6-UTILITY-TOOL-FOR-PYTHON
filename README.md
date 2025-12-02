@@ -7,7 +7,7 @@
 <body>
 <h2>Expander & Shortener IPv6 Address </h2>
     <b style="color:grey"><u>First program with libraries (ipaddress):</u></b>
-    <p> <img src="screenshot_IPV6.png" width="150" height="100">
+    <p> <img src="screenshot_IPV6.png" width="400" height="420">
         This code was made by Matías & Jorge Ferrando. We aim to accomplish
         several tasks related to IPv6 addresses, such as writing the full address
         with all the zeros and having the program return the shorter IPv6 format,
